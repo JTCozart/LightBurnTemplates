@@ -51,7 +51,6 @@
         <bidir Value="0"/>
         <tabsEnabled Value="1"/>
         <priority Value="0"/>
-        <doOutput Value="0"/>
         <tabCount Value="1"/>
         <tabCountMax Value="1"/>
     </CutSetting>
